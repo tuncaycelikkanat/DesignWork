@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Pizza</string>
+    <string name="appHeaderText">Pizza</string>
+    <string name="pizzaHeaderText">Beef Cheese</string>
+    <string name="cheeseOptionText">Cheese</string>
+    <string name="sausageOptionText">Sausage</string>
+    <string name="oliveOptionText">Olive</string>
+    <string name="pepperOptionText">Pepper</string>
+    <string name="deliveryTimeText">20 min</string>
+    <string name="deliveryTitleText">Delivery</string>
+    <string name="pizzaExplanationText">Meat Lover, Get Ready To Meet Your Pizza!</string>
+    <string name="priceText">$ 5.99</string>
+    <string name="buttonText">Add To Cart</string>
+    <string name="contentDescription">A Pizza Photo</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+</resources>

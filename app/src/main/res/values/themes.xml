@@ -1,0 +1,19 @@
+<resources xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools">
+
+    <style name="Base.Theme.DesignWork" parent="Theme.Material3.DayNight.NoActionBar">
+        <item name="android:statusBarColor">@color/mainColorDark</item>
+        <item name="android:navigationBarColor">@color/mainColorDark</item>
+    </style>
+
+    <style name="MyBottomNavigationViewStyle" parent="Widget.Material3.BottomNavigationView">
+        <item name="android:background">@color/mainColor</item>
+        <item name="itemRippleColor">@android:color/transparent</item>
+        <item name="itemActiveIndicatorStyle">@android:color/transparent</item>
+    </style>
+
+    <style name="Theme.DesignWork" parent="Base.Theme.DesignWork">
+        <item name="bottomNavigationStyle">@style/MyBottomNavigationViewStyle</item>
+    </style>
+
+</resources>

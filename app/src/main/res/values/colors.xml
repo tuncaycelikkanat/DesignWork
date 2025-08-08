@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <color name="mainColor">#CB2020</color>
+    <color name="mainColorDark">#bf2020</color>
+    <color name="textColor1">#ffffff</color>
+    <color name="textColor2">#636363</color>
+    <color name="rippleColor">#A27D00</color>
+</resources>
